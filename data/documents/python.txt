@@ -1,0 +1,12 @@
+Python is a general-purpose programming language widely used for
+software development, automation, data analysis, machine learning,
+and artificial intelligence.
+
+Python functions are reusable blocks of code defined using the def
+keyword. Functions can accept parameters and return values.
+
+Python lists are ordered collections that can contain multiple values.
+Lists are mutable, meaning their contents can be changed after creation.
+
+Python dictionaries store data as key-value pairs. They are useful
+when information needs to be accessed using meaningful keys.

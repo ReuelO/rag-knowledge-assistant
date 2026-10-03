@@ -1,0 +1,11 @@
+Machine learning is a branch of artificial intelligence in which
+algorithms learn patterns from data.
+
+Supervised learning uses labelled training data.
+
+Classification predicts discrete categories such as spam or not spam.
+
+Regression predicts continuous numerical values such as prices.
+
+A model should be evaluated using data that was not used during training
+to estimate how well it generalizes to new examples.

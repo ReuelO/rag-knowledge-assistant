@@ -1,0 +1,11 @@
+Computer networking allows devices to communicate and exchange data.
+
+An IP address identifies a device or network interface on a network.
+
+HTTP is an application-layer protocol used for communication between
+clients and web servers.
+
+TCP provides reliable, ordered delivery of data between networked
+applications.
+
+DNS translates domain names into IP addresses.

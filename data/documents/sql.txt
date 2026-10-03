@@ -1,0 +1,9 @@
+SQL is a language used to work with relational databases.
+
+A SQL SELECT statement retrieves data from one or more tables.
+
+SQL joins combine related records from multiple tables. Common joins
+include INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN.
+
+A primary key uniquely identifies a record in a database table.
+A foreign key creates a relationship between records in different tables.

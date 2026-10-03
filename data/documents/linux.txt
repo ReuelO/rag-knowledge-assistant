@@ -1,0 +1,12 @@
+Linux is an open-source operating system commonly used on servers,
+development machines, cloud infrastructure, and embedded systems.
+
+The Linux command line allows users to interact with the operating
+system using commands.
+
+The ls command lists files and directories.
+
+The cd command changes the current working directory.
+
+File permissions determine which users can read, write, or execute
+files and directories.

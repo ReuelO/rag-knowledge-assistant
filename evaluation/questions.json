@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What keyword is used to define a Python function?",
+    "expected_answer": "The def keyword is used to define a Python function.",
+    "expected_source": "python.txt",
+    "answerable": true
+  },
+  {
+    "question": "What can Python functions return?",
+    "expected_answer": "Python functions can return values using the return statement.",
+    "expected_source": "python.txt",
+    "answerable": true
+  },
+  {
+    "question": "What does a SQL SELECT statement do?",
+    "expected_answer": "A SQL SELECT statement retrieves data from one or more tables.",
+    "expected_source": "sql.txt",
+    "answerable": true
+  },
+  {
+    "question": "What is a primary key?",
+    "expected_answer": "A primary key uniquely identifies a record in a database table.",
+    "expected_source": "sql.txt",
+    "answerable": true
+  },
+  {
+    "question": "What protocol provides reliable delivery of data?",
+    "expected_answer": "TCP provides reliable, ordered delivery of data between networked applications.",
+    "expected_source": "networking.txt",
+    "answerable": true
+  },
+  {
+    "question": "What does DNS translate?",
+    "expected_answer": "DNS translates domain names into IP addresses.",
+    "expected_source": "networking.txt",
+    "answerable": true
+  },
+  {
+    "question": "What command lists files in Linux?",
+    "expected_answer": "The ls command lists files and directories.",
+    "expected_source": "linux.txt",
+    "answerable": true
+  },
+  {
+    "question": "What are file permissions used for?",
+    "expected_answer": "File permissions determine which users can read, write, or execute files and directories.",
+    "expected_source": "linux.txt",
+    "answerable": true
+  },
+  {
+    "question": "What is supervised learning?",
+    "expected_answer": "Supervised learning uses labelled training data.",
+    "expected_source": "machine-learning.txt",
+    "answerable": true
+  },
+  {
+    "question": "What does regression predict?",
+    "expected_answer": "Regression predicts continuous numerical values.",
+    "expected_source": "machine-learning.txt",
+    "answerable": true
+  },
+  {
+    "question": "Who was the first president of Kenya?",
+    "expected_answer": null,
+    "expected_source": null,
+    "answerable": false
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected_answer": null,
+    "expected_source": null,
+    "answerable": false
+  }
+]
